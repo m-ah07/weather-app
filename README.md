@@ -51,14 +51,14 @@ weather-app/
 
 Here’s an example of how the app works:
 
-    ```bash
+```bash
     Enter city name: London
 
     Weather in London:
     Temperature: 15°C
     Description: Clear sky
     Humidity: 68%
-    ```
+```
 
 ## Contributing
 
