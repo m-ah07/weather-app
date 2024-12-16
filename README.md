@@ -22,36 +22,36 @@ weather-app/
 
 1. Clone the repository:
 
-```
-git clone https://github.com/marwan-ahmed-23/weather-app.git
-```
+    ```bash
+    git clone https://github.com/marwan-ahmed-23/weather-app.git
+    ```
 
 2. Navigate to the project directory:
 
-```
-cd weather-app
-```
+    ```bash
+    cd weather-app
+    ```
 
 3. Install dependencies:
 
-```
-pip install requests
-```
+    ```bash
+    pip install requests
+    ```
 
 ## Usage
 
 1. Replace `your_api_key_here` in `example.py` with your OpenWeatherMap API key.
 2. Run the example script:
 
-```
-python examples/example.py
-```
+    ```bash
+    python examples/example.py
+    ```
 
 ## Example
 
 Here’s an example of how the app works:
 
-```
+```bash
 Enter city name: London
 
 Weather in London:
