@@ -8,7 +8,7 @@ A simple Python CLI Weather App to fetch current weather information using the O
 - Easy-to-use and extendable.
 
 ## Directory Structure
-
+```plaintext
 weather-app/
 ├── src/
 │   └── weather.py        # Core logic for fetching weather data
@@ -16,7 +16,7 @@ weather-app/
 │   └── example.py        # Demonstration of the Weather App usage
 ├── .gitignore            # Git ignore file
 └── README.md             # Documentation file
-
+```
 
 ## Installation
 
