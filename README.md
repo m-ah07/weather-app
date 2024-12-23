@@ -2,23 +2,24 @@
 
 A simple Python CLI Weather App to fetch current weather information using the OpenWeatherMap API.
 
-## Features
+## 🚀 Features
 - Fetch current weather data for any city.
 - Display temperature, humidity, and weather description.
 - Easy-to-use and extendable.
 
-## Directory Structure
+## 📂 Directory Structure
 ```plaintext
 weather-app/
 ├── src/
-│   └── weather.py        # Core logic for fetching weather data
+│   └── weather.py
 ├── examples/
-│   └── example.py        # Demonstration of the Weather App usage
-├── .gitignore            # Git ignore file
-└── README.md             # Documentation file
+│   └── example.py
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
-## Installation
+## 🔧 Installation
 
 1. Clone the repository:
 
@@ -38,7 +39,7 @@ weather-app/
     pip install requests
     ```
 
-## Usage
+## 📖 Usage
 
 1. Replace `your_api_key_here` in `example.py` with your OpenWeatherMap API key.
 2. Run the example script:
@@ -60,7 +61,9 @@ Description: Clear sky
 Humidity: 68%
 ```
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
+## 🌟 Stay Connected
+Feel free to star ⭐ this repository if you find it helpful!
